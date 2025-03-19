@@ -4,6 +4,10 @@
 # Iria Boj Herrero - 1671253
 # Grup 45
 
+## Enfoque
+El caso de uso elegido para la realización de la práctica se centra en todo lo necesario e importante para gestionar una auditoría de sanidad. Se han creado las diferentes
+consultas, generando la mayor eficiencia posible.
+
 ## Descripción
 
 Esta práctica consiste en trabajar con un sistema de inspecciones de restaurantes utilizando MongoDB. Deberás diseñar un esquema adecuado, implementar consultas y optimizar el rendimiento de la base de datos.
