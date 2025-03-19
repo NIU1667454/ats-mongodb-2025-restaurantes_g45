@@ -1,5 +1,9 @@
 # ATS MongoDB 2025: Sistema de Inspecciones de Restaurantes
 
+# Joan Corral Sanchez - 1667454
+# Iria Boj Herrero - 1671253
+# Grup 45
+
 ## Descripción
 
 Esta práctica consiste en trabajar con un sistema de inspecciones de restaurantes utilizando MongoDB. Deberás diseñar un esquema adecuado, implementar consultas y optimizar el rendimiento de la base de datos.
